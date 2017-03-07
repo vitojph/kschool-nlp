@@ -59,7 +59,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 
-- [WordnNet](https://wordnet.princeton.edu/)
+- [WordNet](https://wordnet.princeton.edu/)
 
 - [Multilingual Central Repository (Spanish WordNet)](http://adimen.si.ehu.es/web/MCR)
 
@@ -79,7 +79,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 - [MonkeyLearn](http://docs.monkeylearn.com/article/api-reference/)
 
 - [Mashape's Market on Natural
-  Lanaguage](https://market.mashape.com/explore?query=language&page=1)
+  Language](https://market.mashape.com/explore?query=language&page=1)
 
 
 
