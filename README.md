@@ -49,3 +49,54 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 - [The Two Paths from NLP to AI](https://medium.com/intuitionmachine/the-two-paths-from-natural-language-processing-to-artificial-intelligence-d5384ddbfc18#.hnswmbbd3)
 
 - [Natural Language Processing Key Terms, Explained](http://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html)
+
+
+## Resources
+
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
+
+- [Awesome Spanish NLP](https://github.com/dav009/awesome-spanish-nlp)
+
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+
+- [WordnNet](https://wordnet.princeton.edu/)
+
+- [Multilingual Central Repository (Spanish WordNet)](http://adimen.si.ehu.es/web/MCR)
+
+- [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
+
+- [Pre-trained word vectors by fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+
+
+## NLProc APIs
+
+- [Cloud Natural Language API](https://cloud.google.com/natural-language/)
+
+- [IBM's Watson API](https://www.ibm.com/watson/developercloud/services-catalog.html)
+
+- [MeaningCloud API](https://www.meaningcloud.com/developer/apis)
+
+- [MonkeyLearn](http://docs.monkeylearn.com/article/api-reference/)
+
+- [Mashape's Market on Natural
+  Lanaguage](https://market.mashape.com/explore?query=language&page=1)
+
+
+
+### Readings on Neural Networks
+
+- [Christopher Olah's blog on Neural Networks ](http://colah.github.io/), specially the post on [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
+- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) ([code repo](https://github.com/karpathy/char-rnn))
+
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+
+- [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+
+- [Deep Learning for NLP (without magic)](http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
+
+
+
+
