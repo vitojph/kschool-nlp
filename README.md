@@ -11,12 +11,12 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 
 - [Introduction to NLP](Intro-NLProc.pdf)
 - [Unix Command Line Tools to Process Text](ShellUnix-proc-text.pdf)
-- [NLTK: Access to Corpora and Linguistic Resources](nltk-corpus.ipynb)
-- [NLTK: Part-of-Speech Tagging](nltk-pos.ipynb)
-- [NLTK: Parsing](nltk-analyzers.ipynb)
-- [TextBlob: NLP](textblob.ipynb)
-- [Space Vector Models](vsm.ipynb)
-- [Word Embeddings](word2vec.ipynb)
+- [NLTK: Access to Corpora and Linguistic Resources](notebooks-py3/nltk-corpus.ipynb)
+- [NLTK: Part-of-Speech Tagging](notebooks-py3/nltk-pos.ipynb)
+- [NLTK: Parsing](notebooks-py3/nltk-analyzers.ipynb)
+- [TextBlob: NLP](notebooks-py3/textblob.ipynb)
+- [Space Vector Models](notebooks-py3/vsm.ipynb)
+- [Word Embeddings](notebooks-py3/word2vec.ipynb)
 
 
 ## MOOCs, Courses and Other Materials
