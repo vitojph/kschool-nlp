@@ -1,7 +1,7 @@
 ---
-title: "Introducción al NLProc | III Máster en Data Science | KSchool"
+title: "Introducción al NLProc | IV Máster en Data Science | KSchool"
 author: "Víctor Peinado"
-date: "3-4 de marzo de 2017"
+date: "14-15 de julio de 2017"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
