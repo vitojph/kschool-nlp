@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
-This repo contains the NLP materials for the 3rd edition of the [Data Science
+This repo contains the NLP materials for the 4th edition of the [Data Science
 Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 [KSchool](http://kschool.com).
 
@@ -23,7 +23,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) at
 
 - [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing).
 
-- Manning & Jurafsky organizaron un curso de NLP en Coursera. Todavía sobreviven las [presentaciones](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) y los [vídeos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
+- Some years ago, Manning & Jurafsky organized a course on NLP at Coursera. There are some [slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and [videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
 
 - [Stanford NLP](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
 
